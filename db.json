@@ -2,12 +2,12 @@
   "productos": [
     {
       "id": 18,
-      "nombre": "iddaawdasdasd",
-      "precio": "17"
+      "nombre": "Frutas",
+      "precio": "25"
     },
     {
-      "nombre": "nuevo producto",
-      "precio": "123123",
+      "nombre": "Estupefacientes",
+      "precio": "60",
       "id": 19
     }
   ]
